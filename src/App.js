@@ -63,7 +63,7 @@ export default function App() {
       </div>
       <div className="source-on-github">
         <small>
-          <a href="https://github.com/NataSpace/project-forecast.git">
+          <a href="https://github.com/NataSpace/cs-forecast-react.git">
             Open source on GitHub
           </a>
           , by Nataliia Piddubna
